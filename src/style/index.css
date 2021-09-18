@@ -12,6 +12,7 @@ body {
 .headerAppComponent {
   background-image: url(../assets/images/bg-header-desktop.svg);
   background-color: #5ba4a4;
+  background-size: 100vw;
   height: 20vh;
 }
 

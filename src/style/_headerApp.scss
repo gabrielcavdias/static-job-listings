@@ -1,6 +1,7 @@
 .headerAppComponent{
     background-image: url(../assets/images/bg-header-desktop.svg);
     background-color: $primary;
+    background-size: 100vw;
     height: 20vh;
     h1{
         display: none;
